@@ -23,7 +23,18 @@ public class Maiordeidade {
             System.out.println("Menor de idade");
         }
         sc.close();
+        //   public static void main(String[] args) {
+       // Scanner sc= new Scanner(System.in);
+        //System.out.println("Digite sua idade: ");
+        //int x = sc.nextInt();
+        //if (x >=18){
+        // System.out.println("Maior de idade");
+        //}else {
+          //  System.out.println("Menor de idade");
+      //  }
+        sc.close();
         // TODO code application logic here
     }
     
 }
+
