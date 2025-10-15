@@ -20,7 +20,7 @@ inicio
 fim
 
 */ 
-package atv7;
+package MediaValores7;
 
 import java.util.Scanner;
 
