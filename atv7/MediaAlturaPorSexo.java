@@ -5,7 +5,7 @@ inteiro contadorHomens, contadorMulheres
 literal sexo
 
 inicio
-    somaHomens <- 0
+    somaHomens = <- 0
     somaMulheres <- 0
     contadorHomens <- 0
     contadorMulheres <- 0
